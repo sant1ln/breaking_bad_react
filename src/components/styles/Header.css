@@ -1,0 +1,27 @@
+.container{
+    background-color: #A4A938;
+    width: 100%;
+    display: flex;
+    padding: 1%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.container h1{
+    font-family: 'Anton', sans-serif;
+}
+
+
+.container div{
+    margin-right: 10%;
+    height: 90px;
+    display: flex;
+    align-items: center ;
+}
+
+
+input{
+    width: 300px;
+    height: 25px;
+}
