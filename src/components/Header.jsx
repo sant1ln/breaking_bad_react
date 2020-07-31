@@ -1,12 +1,9 @@
-import React from 'react';
-import './styles/Header.css';
+import React from "react";
+import "./styles/Header.css";
 
-const Header = () =>(
-    <div className="container">
-        <h1>ReactStore</h1>
-        <div>
-            <input type="text"/>
-        </div>
-    </div>
-)
+const Header = () => (
+  <div className="container">
+    <h1>My Breaking Bad API </h1>
+  </div>
+);
 export default Header;

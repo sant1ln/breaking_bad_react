@@ -1,9 +1,9 @@
 .container{
-    background-color: #A4A938;
+    background-color: #487f5a;
     width: 100%;
     display: flex;
     padding: 1%;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
